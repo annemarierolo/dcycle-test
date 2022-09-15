@@ -1,0 +1,11 @@
+.nationality-img{
+    width: 100px;
+    height: 60px;
+    border: 0.5px solid lightgray;
+    margin-right: 50px;
+}
+
+.country-flag{
+    display: inline-block;
+    text-align: left;
+}

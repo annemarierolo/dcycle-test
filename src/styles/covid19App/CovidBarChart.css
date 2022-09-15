@@ -1,0 +1,12 @@
+.bar-container{
+    width: 45%;
+    margin-top: 110px;
+    margin-left: 50px;
+}
+
+@media only screen and (max-width: 1028px) {
+    .bar-container{
+        width: 80% !important;
+        margin-left: 0px;
+    }
+}
